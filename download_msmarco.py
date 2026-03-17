@@ -1,6 +1,11 @@
 """
 Download a subset of MS MARCO passages and embed them with SentenceTransformers.
 Saves embeddings to msmarco_embeddings.npy and passages to msmarco_passages.json.
+
+NOTE: Pre-computed embeddings and passages are available on Google Drive — no need to run this script.
+Download msmarco_embeddings.npy and msmarco_passages.json from:
+https://drive.google.com/drive/folders/1Cdh7B33UtmO5xh-rceekhYPBGCZHJBw6?usp=sharing
+Place both files in the repo root before running experiments.
 """
 
 import json
