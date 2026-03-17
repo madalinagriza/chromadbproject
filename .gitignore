@@ -45,3 +45,8 @@ target/
 
 # Rapid test data
 testdata
+
+
+# Datasets
+glove-100-angular.hdf5
+sift-128-euclidean.hdf5
