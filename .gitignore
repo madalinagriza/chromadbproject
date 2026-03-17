@@ -46,7 +46,7 @@ target/
 # Rapid test data
 testdata
 
-
-# Datasets
-glove-100-angular.hdf5
-sift-128-euclidean.hdf5
+# Large dataset files
+*.hdf5
+*.npy
+msmarco_passages.json
