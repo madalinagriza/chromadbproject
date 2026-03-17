@@ -45,3 +45,8 @@ target/
 
 # Rapid test data
 testdata
+
+# Large dataset files
+*.hdf5
+*.npy
+msmarco_passages.json
